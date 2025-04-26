@@ -1,17 +1,14 @@
-﻿using System;
-using System.Drawing;
-using System.Windows.Forms;
-
+﻿
 namespace UI
 {
-    public partial class PermissionSelection : BaseForm
+    public partial class PermissionSelection : Form
     {
         private Image backgroundImage;
 
         public PermissionSelection()
         {
             InitializeComponent();
-           
+            this.StartPosition = FormStartPosition.CenterScreen;
 
         }
 

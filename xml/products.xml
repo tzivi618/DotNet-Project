@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Product>
-    <ProdId>106</ProdId>
-    <ProdName>חלונות אור</ProdName>
-    <ProdCategory>נוער</ProdCategory>
-    <Price>40</Price>
-    <Quantity>35</Quantity>
-  </Product>
-  <Product>
     <ProdId>101</ProdId>
     <ProdName>אנוכי מבקש</ProdName>
     <ProdCategory>מבוגר</ProdCategory>
@@ -69,5 +62,12 @@
     <ProdCategory>ביוגרפיה</ProdCategory>
     <Price>70</Price>
     <Quantity>12</Quantity>
+  </Product>
+  <Product>
+    <ProdId>106</ProdId>
+    <ProdName>חלונות אור</ProdName>
+    <ProdCategory>נוער</ProdCategory>
+    <Price>40</Price>
+    <Quantity>33</Quantity>
   </Product>
 </ArrayOfProduct>

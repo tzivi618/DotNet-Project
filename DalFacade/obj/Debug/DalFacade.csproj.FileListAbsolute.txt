@@ -122,3 +122,15 @@ C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalFaca
 C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalFacade\obj\Debug\refint\DalFacade.dll
 C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalFacade\obj\Debug\DalFacade.pdb
 C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\bin\DalFacade.deps.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\bin\DalFacade.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\bin\DalFacade.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalFacade\obj\Debug\DalFacade.sourcelink.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalFacade\obj\Debug\ref\DalFacade.dll

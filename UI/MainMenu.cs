@@ -1,23 +1,17 @@
 ﻿using BlApi;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+
 
 namespace UI
 {
-    public partial class MainMenu : BaseForm
+    public partial class MainMenu : Form
     {
         static readonly IBl s_bl = Factory.Get;
         public MainMenu()
         {
             InitializeComponent();
-           
+            this.StartPosition = FormStartPosition.CenterScreen;
+
+
         }
 
         private void customersButton_Click_1(object sender, EventArgs e)

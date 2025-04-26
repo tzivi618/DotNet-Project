@@ -1,25 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Diagnostics.Eventing.Reader;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using BlApi;
+﻿using BlApi;
 using BO;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+
 
 namespace UI
 {
-    public partial class CustomerForm : BaseForm
+    public partial class CustomerForm : Form
     {
         private static IBl _bl = BlApi.Factory.Get;
         public CustomerForm()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
             PrintAllCustomers();
 
         }

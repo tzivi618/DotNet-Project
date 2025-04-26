@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\BL\\BL.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\BL\\BL.csproj",
+      "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\BL\\BL.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\BL\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,14 +113,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\DalFacade\\DalFacade.csproj"
+            "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\DalFacade\\DalFacade.csproj"
             },
-            "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\DalList\\DalList.csproj": {
-              "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\DalList\\DalList.csproj"
+            "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\DalList\\DalList.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\DalList\\DalList.csproj"
             },
-            "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\DalXml\\DalXml.csproj": {
-              "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\DalXml\\DalXml.csproj"
+            "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\DalXml\\DalXml.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\DalXml\\DalXml.csproj"
             }
           }
         }

@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\BlTest\\BlTest.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\BlTest\\BlTest.csproj",
       "projectName": "BlTest",
-      "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\BlTest\\BlTest.csproj",
+      "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\BlTest\\BlTest.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\BlTest\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\BlTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -153,11 +153,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\BL\\BL.csproj"
+            "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\BL\\BL.csproj"
             },
-            "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\DalTest\\DalTest.csproj": {
-              "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\DotNet2025_7086_1523\\DalTest\\DalTest.csproj"
+            "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\DalTest\\DalTest.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\C#\\פרויקט\\DotNet2025_7086_1523\\DalTest\\DalTest.csproj"
             }
           }
         }

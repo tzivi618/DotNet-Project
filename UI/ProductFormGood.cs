@@ -4,13 +4,14 @@ using BO;
 
 namespace UI
 {
-    public partial class ProductFormGood : BaseForm
+    public partial class ProductFormGood : Form
     {
         private static IBl _bl = BlApi.Factory.Get;
         public ProductFormGood()
         {
             InitializeComponent();
-                       PrintAllproducts();
+            this.StartPosition = FormStartPosition.CenterScreen;
+            PrintAllproducts();
             foreach (var e in Enum.GetValues(typeof(Categories)))
             {
                 searchProductByCategoryCombo.Items.Add(e);

@@ -141,3 +141,17 @@ C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalList
 C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalList\obj\Debug\refint\DalList.dll
 C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalList\obj\Debug\DalList.pdb
 C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalList\obj\Debug\ref\DalList.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\bin\DalList.deps.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\bin\DalList.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\bin\DalList.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalList\obj\Debug\DalList.sourcelink.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalList\obj\Debug\DalList.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalList\obj\Debug\refint\DalList.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalList\obj\Debug\DalList.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\פרויקט\DotNet2025_7086_1523\DalList\obj\Debug\ref\DalList.dll

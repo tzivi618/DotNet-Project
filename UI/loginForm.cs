@@ -1,24 +1,15 @@
 ﻿using BlApi;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace UI
 {
-    public partial class loginForm : BaseForm
+    public partial class loginForm : Form
     {
         private static IBl _bl = BlApi.Factory.Get;
         public loginForm()
         {
             InitializeComponent();
-            
+            this.StartPosition = FormStartPosition.CenterScreen;
+
         }
 
         private void checkCustomerBtn_Click(object sender, EventArgs e)

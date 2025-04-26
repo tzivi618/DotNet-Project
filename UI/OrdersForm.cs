@@ -1,20 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using System.Globalization;
 using BlApi;
 using BO;
-using static System.Windows.Forms.DataFormats;
 
 namespace UI
 {
-    public partial class OrdersForm : BaseForm
+    public partial class OrdersForm : Form
     {
         private static IBl _bl = BlApi.Factory.Get;
         Order order;
@@ -25,6 +15,7 @@ namespace UI
         {
 
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
             LoadProducts();
             name = _name;
             isSpecialCustomer = _isSpecialCustomer;
@@ -86,7 +77,7 @@ namespace UI
         private void payOrderBtn_Click(object sender, EventArgs e)
         {
             string message = string.Format(CultureInfo.GetCultureInfo("he-IL"),
-     "האם אתה מאשר ביצוע ההזמנה ותשלום על סך {0:C}?", order.TotalPrice);
+                "האם אתה מאשר ביצוע ההזמנה ותשלום על סך {0:C}?", order.TotalPrice);
 
             string title = "אישור תשלום";
 
@@ -95,10 +86,24 @@ namespace UI
             if (result == DialogResult.Yes)
             {
                 _bl.Order.DoOrder(order);
+                ShowThankYouMessage();
                 this.Close();
             }
-
         }
-}
-}
+        private async void ShowThankYouMessage()
+        {
+            ThankYouForm thankYouForm = new ThankYouForm();
+            thankYouForm.Show();
 
+            await Task.Delay(5000);
+
+            thankYouForm.Close();
+        }
+
+
+    }
+
+
+
+
+}
