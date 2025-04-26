@@ -1,0 +1,230 @@
+	26/04/2025 21:32:23	Dal.CustomerImplementation.Read:	begin Read customer 11
+	26/04/2025 21:32:23	Dal.CustomerImplementation.Read:	end Read customer 11
+	26/04/2025 21:32:23	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 21:32:23	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 21:32:27	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 21:32:27	Dal.ProductImplementation.Read:	end Read Sale100
+	26/04/2025 21:32:29	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 21:32:29	Dal.ProductImplementation.Read:	end Read Sale100
+	26/04/2025 21:32:37	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 21:32:37	Dal.ProductImplementation.Read:	end Read Sale100
+	26/04/2025 21:34:38	Dal.ProductImplementation.Read:	begin Read Product44545
+	26/04/2025 21:34:38	Dal.ProductImplementation.Read:	-----------------error: This product is not in the prducts list-----------------
+	26/04/2025 21:35:34	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 21:35:34	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 31
+	26/04/2025 21:35:42	Dal.CustomerImplementation.Read:	begin Read customer 11
+	26/04/2025 21:35:42	Dal.CustomerImplementation.Read:	end Read customer 11
+	26/04/2025 21:35:42	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 21:35:42	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 22:09:50	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 22:09:50	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 31
+	26/04/2025 22:20:37	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 22:20:37	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 31
+	26/04/2025 22:21:31	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 22:21:31	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 31
+	26/04/2025 22:22:08	Dal.CustomerImplementation.Read:	begin Read customer 231231
+	26/04/2025 22:22:08	Dal.CustomerImplementation.Read:	end Read customer 231231
+	26/04/2025 22:22:08	Dal.CustomerImplementation.Read:	-----------------error: This customer is not in the customer list-----------------
+	26/04/2025 22:22:40	Dal.CustomerImplementation.Create:	begin Create Customer { CustomerId = 12121, CustomerName = ברכה, CustomerAddress = ירושלים, CustomerPhone = 027715555 }
+	26/04/2025 22:22:40	Dal.CustomerImplementation.Create:	end Create Customer { CustomerId = 12121, CustomerName = ברכה, CustomerAddress = ירושלים, CustomerPhone = 027715555 }
+	26/04/2025 22:22:41	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 22:22:41	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 22:24:48	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 22:24:48	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 22:24:54	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 22:24:54	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 22:25:22	Dal.CustomerImplementation.Read:	begin Read customer 11
+	26/04/2025 22:25:22	Dal.CustomerImplementation.Read:	end Read customer 11
+	26/04/2025 22:25:22	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 22:25:22	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 22:25:58	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 22:25:58	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 22:31:54	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 22:31:54	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 22:31:58	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 22:31:58	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 22:32:06	Dal.CustomerImplementation.Read:	begin Read customer 11
+	26/04/2025 22:32:06	Dal.CustomerImplementation.Read:	end Read customer 11
+	26/04/2025 22:32:06	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 22:32:06	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 22:41:22	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 22:41:22	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 22:42:21	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 22:42:21	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 22:42:40	Dal.ProductImplementation.Read:	begin Read Product77177
+	26/04/2025 22:42:40	Dal.ProductImplementation.Read:	-----------------error: This product is not in the prducts list-----------------
+	26/04/2025 22:43:36	Dal.CustomerImplementation.Read:	begin Read customer 11
+	26/04/2025 22:43:36	Dal.CustomerImplementation.Read:	end Read customer 11
+	26/04/2025 22:43:36	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 22:43:36	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 22:43:41	Dal.CustomerImplementation.Read:	begin Read customer 545454
+	26/04/2025 22:43:41	Dal.CustomerImplementation.Read:	end Read customer 545454
+	26/04/2025 22:43:41	Dal.CustomerImplementation.Read:	-----------------error: This customer is not in the customer list-----------------
+	26/04/2025 22:43:45	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 22:43:45	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 22:43:53	Dal.CustomerImplementation.Read:	begin Read customer 545454
+	26/04/2025 22:43:53	Dal.CustomerImplementation.Read:	end Read customer 545454
+	26/04/2025 22:43:53	Dal.CustomerImplementation.Read:	-----------------error: This customer is not in the customer list-----------------
+	26/04/2025 22:43:58	Dal.CustomerImplementation.Read:	begin Read customer 11
+	26/04/2025 22:43:58	Dal.CustomerImplementation.Read:	end Read customer 11
+	26/04/2025 22:43:58	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 22:43:58	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 22:44:10	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 22:44:10	Dal.ProductImplementation.Read:	end Read Sale100
+	26/04/2025 22:44:15	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 22:44:15	Dal.ProductImplementation.Read:	end Read Sale100
+	26/04/2025 22:44:33	Dal.ProductImplementation.Read:	begin Read Product106
+	26/04/2025 22:44:33	Dal.ProductImplementation.Read:	end Read Sale106
+	26/04/2025 22:46:47	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 22:46:47	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 22:52:35	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 22:52:35	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 22:52:44	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 22:52:44	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 22:52:44	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 22:52:44	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 31
+	26/04/2025 22:52:44	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 22:52:44	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 6
+	26/04/2025 22:52:46	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 22:52:46	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 4
+	26/04/2025 22:52:46	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 22:52:46	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 2
+	26/04/2025 22:52:51	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 22:52:51	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 4
+	26/04/2025 22:52:51	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 22:52:51	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 6
+	26/04/2025 22:52:51	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 22:52:51	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 31
+	26/04/2025 22:52:52	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 22:52:52	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 22:52:52	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 22:52:52	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 22:53:12	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 22:53:12	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 22:53:58	Dal.CustomerImplementation.Read:	begin Read customer 11
+	26/04/2025 22:53:58	Dal.CustomerImplementation.Read:	end Read customer 11
+	26/04/2025 22:53:58	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 22:53:58	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 23:02:19	Dal.SaleImplementation.Read:	begin Read Sale522
+	26/04/2025 23:02:19	Dal.SaleImplementation.Read:	end Read Sale522
+		26/04/2025 23:03:07	Dal.SaleImplementation.Read:	begin Read Sale5
+		26/04/2025 23:03:07	Dal.SaleImplementation.Read:	-----------------error: This sale is not in the customer list-----------------
+		26/04/2025 23:03:15	Dal.SaleImplementation.Read:	begin Read Sale522
+		26/04/2025 23:03:15	Dal.SaleImplementation.Read:	end Read Sale522
+	26/04/2025 23:06:18	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 23:06:18	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 23:11:25	Dal.SaleImplementation.Read:	begin Read Sale529
+	26/04/2025 23:11:25	Dal.SaleImplementation.Read:	end Read Sale529
+		26/04/2025 23:11:34	Dal.SaleImplementation.Read:	begin Read Sale523
+		26/04/2025 23:11:34	Dal.SaleImplementation.Read:	end Read Sale523
+	26/04/2025 23:13:18	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:13:18	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:13:23	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:13:23	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:13:26	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 23:13:26	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 23:18:22	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:18:22	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:18:29	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 23:18:29	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 23:21:27	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:21:27	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:21:38	Dal.CustomerImplementation.Read:	begin Read customer 2
+	26/04/2025 23:21:38	Dal.CustomerImplementation.Read:	end Read customer 2
+	26/04/2025 23:21:42	Dal.CustomerImplementation.Read:	begin Read customer 2
+	26/04/2025 23:21:42	Dal.CustomerImplementation.Read:	end Read customer 2
+	26/04/2025 23:21:57	Dal.CustomerImplementation.Read:	begin Read customer 11
+	26/04/2025 23:21:57	Dal.CustomerImplementation.Read:	end Read customer 11
+	26/04/2025 23:21:57	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 23:21:57	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 23:22:02	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 23:22:02	Dal.ProductImplementation.Read:	end Read Sale100
+	26/04/2025 23:22:09	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 23:22:09	Dal.ProductImplementation.Read:	end Read Sale100
+	26/04/2025 23:22:11	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 23:22:11	Dal.ProductImplementation.Read:	end Read Sale100
+	26/04/2025 23:22:13	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 23:22:13	Dal.ProductImplementation.Read:	end Read Sale100
+	26/04/2025 23:23:26	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:23:26	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:31:53	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:31:53	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:32:17	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 23:32:17	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 23:32:32	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:32:32	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:33:02	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 23:33:02	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 23:39:02	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:39:02	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:40:24	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:40:24	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:40:34	Dal.CustomerImplementation.Read:	begin Read customer 2
+	26/04/2025 23:40:34	Dal.CustomerImplementation.Read:	end Read customer 2
+	26/04/2025 23:44:08	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:44:08	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:45:13	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:45:13	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:45:33	Dal.CustomerImplementation.Read:	begin Read customer 2
+	26/04/2025 23:45:33	Dal.CustomerImplementation.Read:	end Read customer 2
+	26/04/2025 23:45:39	Dal.CustomerImplementation.Read:	begin Read customer 2
+	26/04/2025 23:45:39	Dal.CustomerImplementation.Read:	end Read customer 2
+	26/04/2025 23:46:03	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	26/04/2025 23:46:03	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:46:19	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:19	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:46:20	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:20	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 17
+	26/04/2025 23:46:20	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:20	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 0
+	26/04/2025 23:46:21	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:21	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 0
+	26/04/2025 23:46:22	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:22	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 0
+	26/04/2025 23:46:22	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:22	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 0
+	26/04/2025 23:46:23	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:23	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 0
+	26/04/2025 23:46:23	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:23	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 0
+	26/04/2025 23:46:23	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:23	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 0
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 0
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 0
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 0
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 0
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 17
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	26/04/2025 23:46:24	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	26/04/2025 23:46:28	Dal.CustomerImplementation.Read:	begin Read customer 55298989
+	26/04/2025 23:46:28	Dal.CustomerImplementation.Read:	end Read customer 55298989
+	26/04/2025 23:46:28	Dal.CustomerImplementation.Read:	-----------------error: This customer is not in the customer list-----------------
+	26/04/2025 23:46:35	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 23:46:35	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 23:46:45	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:System.Func`2[DO.Product,System.Boolean]
+	26/04/2025 23:46:45	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:System.Func`2[DO.Product,System.Boolean]
+	26/04/2025 23:46:47	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:System.Func`2[DO.Product,System.Boolean]
+	26/04/2025 23:46:47	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:System.Func`2[DO.Product,System.Boolean]
+	26/04/2025 23:48:50	Dal.SaleImplementation.Read:	begin Read Sale522
+	26/04/2025 23:48:50	Dal.SaleImplementation.Read:	end Read Sale522
+	26/04/2025 23:56:20	Dal.CustomerImplementation.Read:	begin Read customer 11
+	26/04/2025 23:56:20	Dal.CustomerImplementation.Read:	end Read customer 11
+	26/04/2025 23:56:20	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	26/04/2025 23:56:20	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	26/04/2025 23:56:25	Dal.ProductImplementation.Read:	begin Read Product104
+	26/04/2025 23:56:25	Dal.ProductImplementation.Read:	end Read Sale104
+	26/04/2025 23:56:28	Dal.ProductImplementation.Read:	begin Read Product104
+	26/04/2025 23:56:28	Dal.ProductImplementation.Read:	end Read Sale104
+	26/04/2025 23:56:35	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 23:56:35	Dal.ProductImplementation.Read:	end Read Sale100
+	26/04/2025 23:56:39	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 23:56:39	Dal.ProductImplementation.Read:	end Read Sale100
+	26/04/2025 23:56:48	Dal.ProductImplementation.Read:	begin Read Product100
+	26/04/2025 23:56:48	Dal.ProductImplementation.Read:	end Read Sale100

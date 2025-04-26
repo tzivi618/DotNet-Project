@@ -1,0 +1,16 @@
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\bin\Debug\net8.0-windows\UI.exe
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\bin\Debug\net8.0-windows\UI.deps.json
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\bin\Debug\net8.0-windows\UI.dll
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\bin\Debug\net8.0-windows\UI.pdb
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\obj\Debug\net8.0-windows\UI.dll
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\obj\Debug\net8.0-windows\refint\UI.dll
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\obj\Debug\net8.0-windows\UI.pdb
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\UI\obj\Debug\net8.0-windows\ref\UI.dll

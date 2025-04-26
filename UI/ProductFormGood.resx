@@ -1,0 +1,1426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>244, 188</value>
+  </data>
+  <data name="&gt;&gt;QuantityNumericUpDown.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;allProductsListBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;CustomerNameInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="UpdateCustomerTab.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;ReadAllCustomerTab.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>254, 93</value>
+  </data>
+  <data name="ReadOneCustomerTab.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 24</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label10.Parent" xml:space="preserve">
+    <value>ReadOneCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;CustomerNameInput.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;CustomerIdInput.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label8.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="searchProductInputByCategory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>625, 35</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;deleteBtn.Parent" xml:space="preserve">
+    <value>DeleteCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;idInputToUpdateProduct.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;productToUpdate.Name" xml:space="preserve">
+    <value>productToUpdate</value>
+  </data>
+  <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 23</value>
+  </data>
+  <data name="allProductsListBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>503, 79</value>
+  </data>
+  <data name="idInput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>64, 16</value>
+  </data>
+  <data name="&gt;&gt;searchProductByCategoryCombo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;allProductsListBox.Name" xml:space="preserve">
+    <value>allProductsListBox</value>
+  </data>
+  <data name="&gt;&gt;searchProductByCategoryCombo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="TabCustomer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>155, 61</value>
+  </data>
+  <data name="quantityNumericUpDownToUpdate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 23</value>
+  </data>
+  <data name="&gt;&gt;AddCustomer.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;allCustomerListBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;idInputToUpdateProduct.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;readBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;idInput.Name" xml:space="preserve">
+    <value>idInput</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="TabCustomer.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>325, 82</value>
+  </data>
+  <data name="&gt;&gt;userDetailInReadOne.Parent" xml:space="preserve">
+    <value>ReadOneCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;saleForProductCombo.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;quantityNumericUpDownToUpdate.Name" xml:space="preserve">
+    <value>quantityNumericUpDownToUpdate</value>
+  </data>
+  <data name="idInputToUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>64, 16</value>
+  </data>
+  <data name="&gt;&gt;customerPhoneToUpdate.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="AddCustomerTab.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="DeleteCustomerTab.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 24</value>
+  </data>
+  <data name="priceNumericUpDown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 23</value>
+  </data>
+  <data name="customerAddressToUpdate.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>325, 50</value>
+  </data>
+  <data name="&gt;&gt;idInputToDelete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;UpdateCustomerTab.Parent" xml:space="preserve">
+    <value>TabCustomer</value>
+  </data>
+  <data name="searchProductInputByCategory.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="AddCustomer.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="UpdateCustomerTab.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 24</value>
+  </data>
+  <data name="&gt;&gt;priceNumericUpDown.Name" xml:space="preserve">
+    <value>priceNumericUpDown</value>
+  </data>
+  <data name="&gt;&gt;userDetialsToDelete.Name" xml:space="preserve">
+    <value>userDetialsToDelete</value>
+  </data>
+  <data name="&gt;&gt;quantityNumericUpDownToUpdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label11.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label12.Name" xml:space="preserve">
+    <value>label12</value>
+  </data>
+  <data name="&gt;&gt;productDetialsToReadOne.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;saveCustomerUpdate.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;UpdateCustomerTab.Name" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="saleForProductCombo.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="addTabCustomer.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="chooseCategoryComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>183, 53</value>
+  </data>
+  <data name="&gt;&gt;saleForProductCombo.Name" xml:space="preserve">
+    <value>saleForProductCombo</value>
+  </data>
+  <data name="saleForProductCombo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 23</value>
+  </data>
+  <data name="&gt;&gt;customerNameToUpdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="numericUpDown1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 23</value>
+  </data>
+  <data name="numericUpDown1.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;idInputToUpdate.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;productDetialsToDelete.Parent" xml:space="preserve">
+    <value>DeleteCustomerTab</value>
+  </data>
+  <data name="userDetailInReadOne.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 114</value>
+  </data>
+  <data name="saveProductUpdate.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;chooseCategoryComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;priceNumericUpDown.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;idUserToReadOne.Name" xml:space="preserve">
+    <value>idUserToReadOne</value>
+  </data>
+  <data name="&gt;&gt;priceNumericUpDown.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;categoryComboBoxToUpdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;productDetialsToDelete.Name" xml:space="preserve">
+    <value>productDetialsToDelete</value>
+  </data>
+  <data name="&gt;&gt;UpdateCustomerTab.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ReadAllCustomerTab.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;allCustomerListBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;allCustomerListBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;deleteBtn.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>255, 14</value>
+  </data>
+  <data name="customerNameToUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>61, 106</value>
+  </data>
+  <data name="&gt;&gt;UpdateCustomerTab.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;saleForProductCombo.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;idInputToDelete.Parent" xml:space="preserve">
+    <value>DeleteCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="customerNameToUpdate.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="searchCustomerInputBtPhoneNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;CustomerAddressInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="categoryComboBoxToUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 122</value>
+  </data>
+  <data name="&gt;&gt;QuantityNumericUpDown.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CustomerNameInput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>210, 21</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;AddCustomerTab.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="idUserToReadOne.Location" type="System.Drawing.Point, System.Drawing">
+    <value>137, 44</value>
+  </data>
+  <data name="&gt;&gt;ProductNameInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="productToUpdate.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;categoryComboBoxToUpdate.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;userDetialsToDelete.Parent" xml:space="preserve">
+    <value>DeleteCustomerTab</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="idBottonToDelete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>29, 14</value>
+  </data>
+  <data name="&gt;&gt;label12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;saveCustomerUpdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabCustomer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AddCustomerTab.Name" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="searchCustomerInputBtPhoneNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>625, 35</value>
+  </data>
+  <data name="&gt;&gt;readBtn.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;idInputToDelete.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;idInputToReadOne.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="idInputToDelete.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CustomerTelInput.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="customerAddressToUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>52, 188</value>
+  </data>
+  <data name="&gt;&gt;PriceNumericUpDownToUpdate.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;chooseCategoryAddComboBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;priceNumericUpDown.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>223, 149</value>
+  </data>
+  <data name="searchProductByCategoryCombo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 23</value>
+  </data>
+  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="categoryComboBoxToUpdate.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="ReadOneCustomerTab.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;idInputToReadOne.Name" xml:space="preserve">
+    <value>idInputToReadOne</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>225, 113</value>
+  </data>
+  <data name="&gt;&gt;productDetialsToDelete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
+    <value>textBox2</value>
+  </data>
+  <data name="&gt;&gt;DeleteCustomerTab.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;CustomerNameInput.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="ProductNameInput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>210, 21</value>
+  </data>
+  <data name="&gt;&gt;PriceNumericUpDownToUpdate.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="UpdateCustomerTab.Text" xml:space="preserve">
+    <value>עדכון</value>
+  </data>
+  <data name="&gt;&gt;ReadOneCustomerTab.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="productDetialsToDelete.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="productDetialsToReadOne.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 114</value>
+  </data>
+  <data name="&gt;&gt;productDetialsToReadOne.Parent" xml:space="preserve">
+    <value>ReadOneCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;searchProductInputByCategory.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="PriceNumericUpDownToUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>113, 151</value>
+  </data>
+  <data name="chooseCategoryAddComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 23</value>
+  </data>
+  <data name="&gt;&gt;chooseCategoryAddComboBox.Name" xml:space="preserve">
+    <value>chooseCategoryAddComboBox</value>
+  </data>
+  <data name="&gt;&gt;idInputToUpdateProduct.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;customerAddressToUpdate.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;deleteBtn.Name" xml:space="preserve">
+    <value>deleteBtn</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;updateBtn.Name" xml:space="preserve">
+    <value>updateBtn</value>
+  </data>
+  <data name="&gt;&gt;customerAddressToUpdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="numericUpDown1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 186</value>
+  </data>
+  <data name="label12.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;label9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label15.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;CustomerIdInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;customerAddressToUpdate.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="idInputToUpdateProduct.Location" type="System.Drawing.Point, System.Drawing">
+    <value>64, 16</value>
+  </data>
+  <data name="readBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>123, 65</value>
+  </data>
+  <data name="UpdateCustomerTab.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="CustomerIdInput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>210, 50</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>CustomerForm</value>
+  </data>
+  <data name="&gt;&gt;allCustomerListBox.Name" xml:space="preserve">
+    <value>allCustomerListBox</value>
+  </data>
+  <data name="&gt;&gt;productToUpdate.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;ReadOneCustomerTab.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="addTabCustomer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>411, 261</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;userDetialsToDelete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;CustomerNameInput.Name" xml:space="preserve">
+    <value>CustomerNameInput</value>
+  </data>
+  <data name="CustomerTelInput.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;searchCustomerInputBtPhoneNumber.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CustomerIdInput.Name" xml:space="preserve">
+    <value>CustomerIdInput</value>
+  </data>
+  <data name="&gt;&gt;productToUpdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label8.Name" xml:space="preserve">
+    <value>label8</value>
+  </data>
+  <data name="productDetialsToReadOne.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="ReadAllCustomerTab.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 24</value>
+  </data>
+  <data name="PriceNumericUpDownToUpdate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 23</value>
+  </data>
+  <data name="&gt;&gt;ReadAllCustomerTab.Parent" xml:space="preserve">
+    <value>TabCustomer</value>
+  </data>
+  <data name="idUserToReadOne.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;productNameToUpdate.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;customerNameToUpdate.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;addTabCustomer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>BaseForm, UI, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;AddCustomer.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;productNameToUpdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AddCustomer.Name" xml:space="preserve">
+    <value>AddCustomer</value>
+  </data>
+  <data name="&gt;&gt;searchCustomerInputBtPhoneNumber.Name" xml:space="preserve">
+    <value>searchCustomerInputBtPhoneNumber</value>
+  </data>
+  <data name="&gt;&gt;productDetialsToDelete.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;updateBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;categoryComboBoxToUpdate.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;searchProductInputByCategory.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;quantityNumericUpDownToUpdate.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
+  <data name="label9.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;updateBtn.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="allProductsListBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;chooseCategoryAddComboBox.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;chooseCategoryComboBox.Name" xml:space="preserve">
+    <value>chooseCategoryComboBox</value>
+  </data>
+  <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;productDetialsToReadOne.Name" xml:space="preserve">
+    <value>productDetialsToReadOne</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CustomerIdInput.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;chooseCategoryComboBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ProductNameInput.Name" xml:space="preserve">
+    <value>ProductNameInput</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;deleteBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label7.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>ProductFormGood</value>
+  </data>
+  <data name="&gt;&gt;PriceNumericUpDownToUpdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label8.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;categoryComboBoxToUpdate.Name" xml:space="preserve">
+    <value>categoryComboBoxToUpdate</value>
+  </data>
+  <data name="&gt;&gt;TabCustomer.Name" xml:space="preserve">
+    <value>TabCustomer</value>
+  </data>
+  <data name="TabCustomer.RightToLeftLayout" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>265, 127</value>
+  </data>
+  <data name="numericUpDown2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 23</value>
+  </data>
+  <data name="&gt;&gt;saveProductUpdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;searchCustomerInputBtPhoneNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label13.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="DeleteCustomerTab.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;customerAddressToUpdate.Name" xml:space="preserve">
+    <value>customerAddressToUpdate</value>
+  </data>
+  <data name="idInputToUpdateProduct.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="quantityNumericUpDownToUpdate.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="label14.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;label11.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;idUserToReadOne.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="saveProductUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>69, 238</value>
+  </data>
+  <data name="&gt;&gt;chooseCategoryComboBox.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="idInputToUpdate.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CustomerAddressInput.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="addTabCustomer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 24</value>
+  </data>
+  <data name="&gt;&gt;CustomerAddressInput.Name" xml:space="preserve">
+    <value>CustomerAddressInput</value>
+  </data>
+  <data name="&gt;&gt;customerPhoneToUpdate.Name" xml:space="preserve">
+    <value>customerPhoneToUpdate</value>
+  </data>
+  <data name="&gt;&gt;CustomerTelInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="customerPhoneToUpdate.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="label11.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="quantityNumericUpDownToUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 186</value>
+  </data>
+  <data name="&gt;&gt;DeleteCustomerTab.Parent" xml:space="preserve">
+    <value>TabCustomer</value>
+  </data>
+  <data name="&gt;&gt;saveCustomerUpdate.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;addTabCustomer.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;readBtn.Name" xml:space="preserve">
+    <value>readBtn</value>
+  </data>
+  <data name="&gt;&gt;saleForProductCombo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="searchProductByCategoryCombo.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;searchProductInputByCategory.Name" xml:space="preserve">
+    <value>searchProductInputByCategory</value>
+  </data>
+  <data name="&gt;&gt;ReadOneCustomerTab.Parent" xml:space="preserve">
+    <value>TabCustomer</value>
+  </data>
+  <data name="CustomerIdInput.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;idInputToUpdate.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="label10.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="allCustomerListBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;customerPhoneToUpdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;readBtn.Parent" xml:space="preserve">
+    <value>ReadOneCustomerTab</value>
+  </data>
+  <data name="AddCustomer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>222, 154</value>
+  </data>
+  <data name="idInputToReadOne.Location" type="System.Drawing.Point, System.Drawing">
+    <value>137, 44</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="label13.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="deleteBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="TabCustomer.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="QuantityNumericUpDown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 23</value>
+  </data>
+  <data name="chooseCategoryComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;QuantityNumericUpDown.Name" xml:space="preserve">
+    <value>QuantityNumericUpDown</value>
+  </data>
+  <data name="TabCustomer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>419, 289</value>
+  </data>
+  <data name="&gt;&gt;ProductNameInput.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;idInput.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;saveProductUpdate.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="deleteBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 170</value>
+  </data>
+  <data name="&gt;&gt;userDetailInReadOne.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;userDetailInReadOne.Name" xml:space="preserve">
+    <value>userDetailInReadOne</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Name" xml:space="preserve">
+    <value>comboBox1</value>
+  </data>
+  <data name="productNameToUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>139, 90</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;saveProductUpdate.Name" xml:space="preserve">
+    <value>saveProductUpdate</value>
+  </data>
+  <data name="&gt;&gt;addTabCustomer.Parent" xml:space="preserve">
+    <value>TabCustomer</value>
+  </data>
+  <data name="numericUpDown2.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;customerNameToUpdate.Name" xml:space="preserve">
+    <value>customerNameToUpdate</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;searchProductInputByCategory.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;ReadAllCustomerTab.Name" xml:space="preserve">
+    <value>ReadAllCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;idInputToUpdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;customerPhoneToUpdate.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;searchProductByCategoryCombo.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;QuantityNumericUpDown.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="chooseCategoryAddComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;productDetialsToReadOne.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown2.Name" xml:space="preserve">
+    <value>numericUpDown2</value>
+  </data>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="userDetailInReadOne.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;idInputToUpdateProduct.Name" xml:space="preserve">
+    <value>idInputToUpdateProduct</value>
+  </data>
+  <data name="&gt;&gt;label14.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;idBottonToDelete.Parent" xml:space="preserve">
+    <value>DeleteCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;label9.Name" xml:space="preserve">
+    <value>label9</value>
+  </data>
+  <data name="&gt;&gt;label15.Name" xml:space="preserve">
+    <value>label15</value>
+  </data>
+  <data name="productDetialsToDelete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>29, 65</value>
+  </data>
+  <data name="&gt;&gt;label14.Name" xml:space="preserve">
+    <value>label14</value>
+  </data>
+  <data name="&gt;&gt;userDetailInReadOne.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>210, 50</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;productNameToUpdate.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;userDetialsToDelete.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;updateBtn.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;TabCustomer.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;idInputToDelete.Name" xml:space="preserve">
+    <value>idInputToDelete</value>
+  </data>
+  <data name="label13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>281, 159</value>
+  </data>
+  <data name="productToUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>139, 90</value>
+  </data>
+  <data name="numericUpDown2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>113, 151</value>
+  </data>
+  <data name="categoryComboBoxToUpdate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 23</value>
+  </data>
+  <data name="&gt;&gt;AddCustomer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="userDetialsToDelete.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ReadOneCustomerTab.Name" xml:space="preserve">
+    <value>ReadOneCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;idInputToUpdate.Name" xml:space="preserve">
+    <value>idInputToUpdate</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>218, 19</value>
+  </data>
+  <data name="&gt;&gt;saveProductUpdate.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="QuantityNumericUpDown.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
+    <value>DeleteCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;CustomerAddressInput.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>503, 38</value>
+  </data>
+  <data name="productNameToUpdate.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>325, 24</value>
+  </data>
+  <data name="&gt;&gt;idInput.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;ProductNameInput.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;DeleteCustomerTab.Name" xml:space="preserve">
+    <value>DeleteCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 122</value>
+  </data>
+  <data name="&gt;&gt;allProductsListBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;idInput.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="addTabCustomer.Text" xml:space="preserve">
+    <value>הוספה</value>
+  </data>
+  <data name="priceNumericUpDown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>184, 82</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>210, 21</value>
+  </data>
+  <data name="&gt;&gt;idBottonToDelete.Name" xml:space="preserve">
+    <value>idBottonToDelete</value>
+  </data>
+  <data name="&gt;&gt;TabCustomer.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;idBottonToDelete.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="idInput.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;ReadAllCustomerTab.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 450</value>
+  </data>
+  <data name="&gt;&gt;label15.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;label15.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;searchCustomerInputBtPhoneNumber.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="$this.RightToLeftLayout" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="idBottonToDelete.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="userDetialsToDelete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 40</value>
+  </data>
+  <data name="addTabCustomer.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="CustomerNameInput.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="CustomerAddressInput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>210, 79</value>
+  </data>
+  <data name="CustomerTelInput.Location" type="System.Drawing.Point, System.Drawing">
+    <value>210, 115</value>
+  </data>
+  <data name="CustomerAddressInput.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>325, 118</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;quantityNumericUpDownToUpdate.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;productNameToUpdate.Name" xml:space="preserve">
+    <value>productNameToUpdate</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;saveCustomerUpdate.Name" xml:space="preserve">
+    <value>saveCustomerUpdate</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="readBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>156, 26</value>
+  </data>
+  <data name="&gt;&gt;allProductsListBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="allCustomerListBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>503, 79</value>
+  </data>
+  <data name="&gt;&gt;idInputToReadOne.Parent" xml:space="preserve">
+    <value>ReadOneCustomerTab</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>225, 196</value>
+  </data>
+  <data name="&gt;&gt;idBottonToDelete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;searchProductByCategoryCombo.Name" xml:space="preserve">
+    <value>searchProductByCategoryCombo</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="&gt;&gt;productToUpdate.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="customerPhoneToUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>54, 146</value>
+  </data>
+  <data name="&gt;&gt;chooseCategoryAddComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="QuantityNumericUpDown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>183, 117</value>
+  </data>
+  <data name="&gt;&gt;CustomerTelInput.Parent" xml:space="preserve">
+    <value>AddCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;idUserToReadOne.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label11.Name" xml:space="preserve">
+    <value>label11</value>
+  </data>
+  <data name="&gt;&gt;CustomerTelInput.Name" xml:space="preserve">
+    <value>CustomerTelInput</value>
+  </data>
+  <data name="chooseCategoryComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 23</value>
+  </data>
+  <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="&gt;&gt;numericUpDown1.Name" xml:space="preserve">
+    <value>numericUpDown1</value>
+  </data>
+  <data name="PriceNumericUpDownToUpdate.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;idInputToReadOne.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="saleForProductCombo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>183, 157</value>
+  </data>
+  <data name="chooseCategoryAddComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>183, 53</value>
+  </data>
+  <data name="&gt;&gt;label10.Name" xml:space="preserve">
+    <value>label10</value>
+  </data>
+  <data name="updateBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>64, 45</value>
+  </data>
+  <data name="&gt;&gt;label13.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;idUserToReadOne.Parent" xml:space="preserve">
+    <value>ReadOneCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;PriceNumericUpDownToUpdate.Name" xml:space="preserve">
+    <value>PriceNumericUpDownToUpdate</value>
+  </data>
+  <data name="idInputToReadOne.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="UpdateCustomerTab.Size" type="System.Drawing.Size, System.Drawing">
+    <value>411, 261</value>
+  </data>
+  <data name="&gt;&gt;AddCustomerTab.Parent" xml:space="preserve">
+    <value>TabCustomer</value>
+  </data>
+  <data name="priceNumericUpDown.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="AddCustomerTab.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 24</value>
+  </data>
+  <data name="saveCustomerUpdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>87, 226</value>
+  </data>
+  <data name="saveCustomerUpdate.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;label13.Name" xml:space="preserve">
+    <value>label13</value>
+  </data>
+  <data name="&gt;&gt;DeleteCustomerTab.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AddCustomerTab.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="idInputToDelete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>124, 11</value>
+  </data>
+  <data name="updateBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;customerNameToUpdate.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="&gt;&gt;label12.Parent" xml:space="preserve">
+    <value>UpdateCustomerTab</value>
+  </data>
+  <data name="ProductNameInput.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;addTabCustomer.Name" xml:space="preserve">
+    <value>addTabCustomer</value>
+  </data>
+  <data name="idBottonToDelete.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="searchProductByCategoryCombo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>622, 35</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>he</value>
+  </metadata>
+</root>

@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer>
+  <Customer>
+    <CustomerId>002</CustomerId>
+    <CustomerName>אבי</CustomerName>
+    <CustomerAddress>ירושלים</CustomerAddress>
+    <CustomerPhone>0522345678</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>003</CustomerId>
+    <CustomerName>מוישי</CustomerName>
+    <CustomerAddress>חיפה</CustomerAddress>
+    <CustomerPhone>0533456789</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>004</CustomerId>
+    <CustomerName>חני</CustomerName>
+    <CustomerAddress>נתניה</CustomerAddress>
+    <CustomerPhone>0544567890</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>005</CustomerId>
+    <CustomerName>דוד</CustomerName>
+    <CustomerAddress>באר שבע</CustomerAddress>
+    <CustomerPhone>0555678901</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>006</CustomerId>
+    <CustomerName>שרה</CustomerName>
+    <CustomerAddress>פתח תקווה</CustomerAddress>
+    <CustomerPhone>0566789012</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>007</CustomerId>
+    <CustomerName>מאיר</CustomerName>
+    <CustomerAddress>ראשון לציון</CustomerAddress>
+    <CustomerPhone>0577890123</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>008</CustomerId>
+    <CustomerName>רחל</CustomerName>
+    <CustomerAddress>רמלה</CustomerAddress>
+    <CustomerPhone>0588901234</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>009</CustomerId>
+    <CustomerName>אליהו</CustomerName>
+    <CustomerAddress>תל אביב</CustomerAddress>
+    <CustomerPhone>0599012345</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>010</CustomerId>
+    <CustomerName>תמר</CustomerName>
+    <CustomerAddress>חיפה</CustomerAddress>
+    <CustomerPhone>0500123456</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>011</CustomerId>
+    <CustomerName>יואב</CustomerName>
+    <CustomerAddress>ירושלים</CustomerAddress>
+    <CustomerPhone>0521234567</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>012</CustomerId>
+    <CustomerName>נועה</CustomerName>
+    <CustomerAddress>נתניה</CustomerAddress>
+    <CustomerPhone>0532345678</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>013</CustomerId>
+    <CustomerName>עדי</CustomerName>
+    <CustomerAddress>באר שבע</CustomerAddress>
+    <CustomerPhone>0543456789</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>014</CustomerId>
+    <CustomerName>תמי</CustomerName>
+    <CustomerAddress>חיפה</CustomerAddress>
+    <CustomerPhone>0554567890</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>015</CustomerId>
+    <CustomerName>חיים</CustomerName>
+    <CustomerAddress>תל אביב</CustomerAddress>
+    <CustomerPhone>0565678901</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>016</CustomerId>
+    <CustomerName>טל</CustomerName>
+    <CustomerAddress>ראשון לציון</CustomerAddress>
+    <CustomerPhone>0576789012</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>017</CustomerId>
+    <CustomerName>עומר</CustomerName>
+    <CustomerAddress>רמלה</CustomerAddress>
+    <CustomerPhone>0587890123</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>018</CustomerId>
+    <CustomerName>אביגדור</CustomerName>
+    <CustomerAddress>פתח תקווה</CustomerAddress>
+    <CustomerPhone>0598901234</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>019</CustomerId>
+    <CustomerName>מאיה</CustomerName>
+    <CustomerAddress>חיפה</CustomerAddress>
+    <CustomerPhone>0501234567</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>021</CustomerId>
+    <CustomerName>דניאל</CustomerName>
+    <CustomerAddress>ירושלים</CustomerAddress>
+    <CustomerPhone>0533456789</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>022</CustomerId>
+    <CustomerName>רוני</CustomerName>
+    <CustomerAddress>נתניה</CustomerAddress>
+    <CustomerPhone>0544567890</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>023</CustomerId>
+    <CustomerName>אורן</CustomerName>
+    <CustomerAddress>באר שבע</CustomerAddress>
+    <CustomerPhone>0555678901</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>024</CustomerId>
+    <CustomerName>תהל</CustomerName>
+    <CustomerAddress>חיפה</CustomerAddress>
+    <CustomerPhone>0566789012</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>025</CustomerId>
+    <CustomerName>יובל</CustomerName>
+    <CustomerAddress>תל אביב</CustomerAddress>
+    <CustomerPhone>0577890123</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>026</CustomerId>
+    <CustomerName>אורי</CustomerName>
+    <CustomerAddress>ראשון לציון</CustomerAddress>
+    <CustomerPhone>0588901234</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>027</CustomerId>
+    <CustomerName>ליה</CustomerName>
+    <CustomerAddress>רמלה</CustomerAddress>
+    <CustomerPhone>0599012345</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>028</CustomerId>
+    <CustomerName>ניצן</CustomerName>
+    <CustomerAddress>פתח תקווה</CustomerAddress>
+    <CustomerPhone>0500123456</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>030</CustomerId>
+    <CustomerName>אביגיל</CustomerName>
+    <CustomerAddress>תל אביב</CustomerAddress>
+    <CustomerPhone>0532345678</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>1</CustomerId>
+    <CustomerName>יוסי</CustomerName>
+    <CustomerAddress>תל אביב</CustomerAddress>
+    <CustomerPhone>0521234567</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>123</CustomerId>
+    <CustomerName>ציבי</CustomerName>
+    <CustomerAddress>נתיבות המשפט 78</CustomerAddress>
+    <CustomerPhone>0533105222</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>20</CustomerId>
+    <CustomerName>ישעיהו</CustomerName>
+    <CustomerAddress>תל אביב</CustomerAddress>
+    <CustomerPhone>0522345678</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>78798</CustomerId>
+    <CustomerName>שני פרינץ</CustomerName>
+    <CustomerAddress>מיע</CustomerAddress>
+    <CustomerPhone>052222222</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>12121</CustomerId>
+    <CustomerName>ברכה</CustomerName>
+    <CustomerAddress>ירושלים</CustomerAddress>
+    <CustomerPhone>027715555</CustomerPhone>
+  </Customer>
+</ArrayOfCustomer>

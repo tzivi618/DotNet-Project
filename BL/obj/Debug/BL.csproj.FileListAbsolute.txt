@@ -1,0 +1,104 @@
+D:\DotNet2025_7086_1523\bin\BL.deps.json
+D:\DotNet2025_7086_1523\bin\BL.dll
+D:\DotNet2025_7086_1523\bin\BL.pdb
+D:\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\DotNet2025_7086_1523\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+D:\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfo.cs
+D:\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.CopyComplete
+D:\DotNet2025_7086_1523\BL\obj\Debug\BL.dll
+D:\DotNet2025_7086_1523\BL\obj\Debug\refint\BL.dll
+D:\DotNet2025_7086_1523\BL\obj\Debug\BL.pdb
+D:\DotNet2025_7086_1523\BL\obj\Debug\ref\BL.dll
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\BL\obj\Debug\BL.dll
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\BL\obj\Debug\refint\BL.dll
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\BL\obj\Debug\BL.pdb
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\bin\BL.deps.json
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\bin\BL.dll
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\bin\BL.pdb
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\BL\obj\Debug\ref\BL.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\BL.deps.json
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\BL.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\BL.pdb
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\BL\obj\Debug\BL.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\BL\obj\Debug\refint\BL.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\BL\obj\Debug\BL.pdb
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\BL\obj\Debug\ref\BL.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\BL.deps.json
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\BL.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\BL.pdb
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\BL\obj\Debug\BL.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\BL\obj\Debug\refint\BL.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\BL\obj\Debug\BL.pdb
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\BL\obj\Debug\ref\BL.dll
+D:\c#\חדש\DotNet2025_7086_1523\bin\BL.deps.json
+D:\c#\חדש\DotNet2025_7086_1523\bin\BL.dll
+D:\c#\חדש\DotNet2025_7086_1523\bin\BL.pdb
+D:\c#\חדש\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\c#\חדש\DotNet2025_7086_1523\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\חדש\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+D:\c#\חדש\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfo.cs
+D:\c#\חדש\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\c#\חדש\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.Up2Date
+D:\c#\חדש\DotNet2025_7086_1523\BL\obj\Debug\BL.dll
+D:\c#\חדש\DotNet2025_7086_1523\BL\obj\Debug\refint\BL.dll
+D:\c#\חדש\DotNet2025_7086_1523\BL\obj\Debug\BL.pdb
+D:\c#\חדש\DotNet2025_7086_1523\BL\obj\Debug\ref\BL.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\BL.deps.json
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\BL.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\BL.pdb
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\refint\BL.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.pdb
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\ref\BL.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\BL.deps.json
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\BL.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\BL.pdb
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\refint\BL.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\BL.pdb
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\BL\obj\Debug\ref\BL.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\BL.deps.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\BL.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\BL.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\BL\obj\Debug\BL.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\BL\obj\Debug\refint\BL.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\BL\obj\Debug\BL.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\BL\obj\Debug\ref\BL.dll

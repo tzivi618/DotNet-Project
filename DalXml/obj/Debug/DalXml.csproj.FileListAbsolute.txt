@@ -1,0 +1,91 @@
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\bin\DalXml.deps.json
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\bin\DalXml.dll
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\bin\DalXml.pdb
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.Up2Date
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.dll
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\DalXml\obj\Debug\refint\DalXml.dll
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.pdb
+Z:\B\אינהורן ציבי\C#\פרויקט\DotNet2025_7086_1523\DalXml\obj\Debug\ref\DalXml.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\DalXml.deps.json
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\DalXml.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\DalXml.pdb
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.Up2Date
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\DalXml\obj\Debug\refint\DalXml.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.pdb
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\DalXml\obj\Debug\ref\DalXml.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\DalXml.deps.json
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\DalXml.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\DalXml.pdb
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.Up2Date
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\DalXml\obj\Debug\refint\DalXml.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.pdb
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\DalXml\obj\Debug\ref\DalXml.dll
+D:\c#\חדש\DotNet2025_7086_1523\bin\DalXml.deps.json
+D:\c#\חדש\DotNet2025_7086_1523\bin\DalXml.dll
+D:\c#\חדש\DotNet2025_7086_1523\bin\DalXml.pdb
+D:\c#\חדש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+D:\c#\חדש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\חדש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+D:\c#\חדש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+D:\c#\חדש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+D:\c#\חדש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.Up2Date
+D:\c#\חדש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.dll
+D:\c#\חדש\DotNet2025_7086_1523\DalXml\obj\Debug\refint\DalXml.dll
+D:\c#\חדש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.pdb
+D:\c#\חדש\DotNet2025_7086_1523\DalXml\obj\Debug\ref\DalXml.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\DalXml.deps.json
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\DalXml.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\DalXml.pdb
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.Up2Date
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\refint\DalXml.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.pdb
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\ref\DalXml.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\DalXml.deps.json
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\DalXml.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\DalXml.pdb
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.Up2Date
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\refint\DalXml.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.pdb
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\DalXml.deps.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\DalXml.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\DalXml.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalXml\obj\Debug\DalXml.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\DalXml\obj\Debug\ref\DalXml.dll

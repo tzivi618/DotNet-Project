@@ -1,0 +1,156 @@
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\UI.exe
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\UI.deps.json
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\UI.runtimeconfig.json
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\UI.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\UI.pdb
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.resources
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.Form1.resources
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.GenerateResource.cache
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfo.cs
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\refint\UI.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.pdb
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.genruntimeconfig.cache
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\ref\UI.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.he.resources
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\he\UI.resources.dll
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.Up2Date
+Z:\B\פל תמר\c#\DotNet2025_7086_1523\bin\he\UI.resources.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\UI.exe
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\UI.deps.json
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\UI.runtimeconfig.json
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\UI.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\UI.pdb
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\bin\he\UI.resources.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.resources
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.Form1.resources
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.he.resources
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.GenerateResource.cache
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfo.cs
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\he\UI.resources.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.Up2Date
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\refint\UI.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.pdb
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.genruntimeconfig.cache
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\ref\UI.dll
+Z:\B\פל תמר\c#\גבוי\DotNet2025_7086_1523\UI\obj\Debug\UI.MainMenu.resources
+D:\c#\חדש\DotNet2025_7086_1523\bin\UI.exe
+D:\c#\חדש\DotNet2025_7086_1523\bin\UI.deps.json
+D:\c#\חדש\DotNet2025_7086_1523\bin\UI.runtimeconfig.json
+D:\c#\חדש\DotNet2025_7086_1523\bin\UI.dll
+D:\c#\חדש\DotNet2025_7086_1523\bin\UI.pdb
+D:\c#\חדש\DotNet2025_7086_1523\bin\he\UI.resources.dll
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.resources
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.Form1.resources
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.MainMenu.resources
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.he.resources
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfo.cs
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\he\UI.resources.dll
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.Up2Date
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.dll
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\refint\UI.dll
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.pdb
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.genruntimeconfig.cache
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\ref\UI.dll
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.PermissionSelection.resources
+D:\c#\חדש\DotNet2025_7086_1523\UI\obj\Debug\UI.Orders.resources
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\UI.exe
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\UI.deps.json
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\UI.runtimeconfig.json
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\UI.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\UI.pdb
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\bin\he\UI.resources.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.resources
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.MainMenu.resources
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.PermissionSelection.resources
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.he.resources
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.GenerateResource.cache
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfo.cs
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\he\UI.resources.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.Up2Date
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\refint\UI.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.pdb
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.genruntimeconfig.cache
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\ref\UI.dll
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.OrdersForm.resources
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.ProductsForm.resources
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.ProductsForm.he.resources
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.SaleForm.resources
+Z:\B\פל תמר\c#\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.SaleForm.he.resources
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\UI.exe
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\UI.deps.json
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\UI.runtimeconfig.json
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\UI.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\UI.pdb
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\bin\he\UI.resources.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.resources
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.MainMenu.resources
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.OrdersForm.resources
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.PermissionSelection.resources
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.ProductsForm.resources
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.SaleForm.resources
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.he.resources
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.ProductsForm.he.resources
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.GenerateResource.cache
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfo.cs
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\he\UI.resources.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.Up2Date
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\refint\UI.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.pdb
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.genruntimeconfig.cache
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\ref\UI.dll
+Z:\B\פל תמר\c#\גבוי\חדשששששששששש\DotNet2025_7086_1523\UI\obj\Debug\UI.Home.resources
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\UI.exe
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\UI.deps.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\UI.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\UI.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\UI.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\bin\he\UI.resources.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.resources
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.MainMenu.resources
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.OrdersForm.resources
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.PermissionSelection.resources
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.ProductFormGood.resources
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.SaleForm.resources
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.CustomerForm.he.resources
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.ProductFormGood.he.resources
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\he\UI.resources.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\refint\UI.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\ref\UI.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.loginForm.resources
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\user1\Desktop\תכנות יד שנה ב\C#\DotNet2025_7086_1523\UI\obj\Debug\BaseForm.resources

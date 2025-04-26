@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <ProdId>106</ProdId>
+    <ProdName>חלונות אור</ProdName>
+    <ProdCategory>נוער</ProdCategory>
+    <Price>40</Price>
+    <Quantity>35</Quantity>
+  </Product>
+  <Product>
+    <ProdId>101</ProdId>
+    <ProdName>אנוכי מבקש</ProdName>
+    <ProdCategory>מבוגר</ProdCategory>
+    <Price>50</Price>
+    <Quantity>8</Quantity>
+  </Product>
+  <Product>
+    <ProdId>102</ProdId>
+    <ProdName>המשגיח</ProdName>
+    <ProdCategory>ביוגרפיה</ProdCategory>
+    <Price>80</Price>
+    <Quantity>13</Quantity>
+  </Product>
+  <Product>
+    <ProdId>100</ProdId>
+    <ProdName>תשע לפנות בוקר</ProdName>
+    <ProdCategory>מבוגר</ProdCategory>
+    <Price>65</Price>
+    <Quantity>45</Quantity>
+  </Product>
+  <Product>
+    <ProdId>103</ProdId>
+    <ProdName>מסומן</ProdName>
+    <ProdCategory>מבוגר</ProdCategory>
+    <Price>50</Price>
+    <Quantity>11</Quantity>
+  </Product>
+  <Product>
+    <ProdId>104</ProdId>
+    <ProdName>נחוחות המאפה</ProdName>
+    <ProdCategory>מתכונים</ProdCategory>
+    <Price>35</Price>
+    <Quantity>20</Quantity>
+  </Product>
+  <Product>
+    <ProdId>105</ProdId>
+    <ProdName>דודי ואודי</ProdName>
+    <ProdCategory>קומיקס</ProdCategory>
+    <Price>30</Price>
+    <Quantity>30</Quantity>
+  </Product>
+  <Product>
+    <ProdId>107</ProdId>
+    <ProdName>מה לך הים</ProdName>
+    <ProdCategory>מבוגר</ProdCategory>
+    <Price>80</Price>
+    <Quantity>50</Quantity>
+  </Product>
+  <Product>
+    <ProdId>108</ProdId>
+    <ProdName>מבחן חוזר</ProdName>
+    <ProdCategory>מבוגר</ProdCategory>
+    <Price>50</Price>
+    <Quantity>10</Quantity>
+  </Product>
+  <Product>
+    <ProdId>109</ProdId>
+    <ProdName>אשירה</ProdName>
+    <ProdCategory>ביוגרפיה</ProdCategory>
+    <Price>70</Price>
+    <Quantity>12</Quantity>
+  </Product>
+</ArrayOfProduct>
