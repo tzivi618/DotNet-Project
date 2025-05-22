@@ -1,11 +1,8 @@
 ﻿using DalApi;
 using DO;
-using System.Linq;
 using System.Reflection;
-using System.Xml.Serialization;
 using Tools;
 namespace Dal;
-
 internal class ProductImplementation : IProduct
 {
     public int Create(Product item)

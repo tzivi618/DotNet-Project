@@ -134,32 +134,6 @@ namespace BlImplementation
                 throw ex;
             }
         }
-/*        public void SearchSaleForProduct(ProductInOrder product, bool isSpecial)
-        {
-            try
-            {
-                var linq = _dal.Sale.ReadAll(s => s.ProdId == product.ProdId && s.StartDate <= DateTime.Now && s.EndDate >= DateTime.Now && s.QuentityForSale <= product.CountInOrder);
-
-                if (!isSpecial)
-                {
-                    linq = (linq ?? Enumerable.Empty<DO.Sale>()).Where(s => !s.IsAllCustomer);
-                }
-
-                product.SalesList = linq?.OrderBy(s => s.TotalPriceSale / s.QuentityForSale)
-                                          .Select(s => s.ConvertSaleToSaleInProduct())
-                                          .ToList() ?? new List<SaleInProduct>();
-            }
-            catch (DalNotFoundIdException e)
-            {
-                throw new BO.BlNotFoundIdException("error in SearchSaleForProduct", e);
-            }
-            catch (Exception ex)
-            {
-                throw ex;
-            }
-        }*/
-
-
 
     }
 }

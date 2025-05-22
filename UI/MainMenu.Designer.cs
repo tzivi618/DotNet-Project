@@ -85,6 +85,7 @@
             CleanOldLogDirectories.TabIndex = 3;
             CleanOldLogDirectories.Text = "ניקוי הלוגים";
             CleanOldLogDirectories.UseVisualStyleBackColor = true;
+            CleanOldLogDirectories.Click += CleanOldLogDirectories_Click;
             // 
             // button1
             // 

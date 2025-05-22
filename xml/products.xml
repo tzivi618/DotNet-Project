@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Product>
-    <ProdId>101</ProdId>
-    <ProdName>אנוכי מבקש</ProdName>
-    <ProdCategory>מבוגר</ProdCategory>
-    <Price>50</Price>
-    <Quantity>8</Quantity>
-  </Product>
-  <Product>
-    <ProdId>102</ProdId>
-    <ProdName>המשגיח</ProdName>
-    <ProdCategory>ביוגרפיה</ProdCategory>
-    <Price>80</Price>
-    <Quantity>13</Quantity>
-  </Product>
-  <Product>
-    <ProdId>100</ProdId>
-    <ProdName>תשע לפנות בוקר</ProdName>
-    <ProdCategory>מבוגר</ProdCategory>
-    <Price>65</Price>
-    <Quantity>45</Quantity>
-  </Product>
-  <Product>
     <ProdId>103</ProdId>
     <ProdName>מסומן</ProdName>
     <ProdCategory>מבוגר</ProdCategory>
@@ -69,5 +48,26 @@
     <ProdCategory>נוער</ProdCategory>
     <Price>40</Price>
     <Quantity>33</Quantity>
+  </Product>
+  <Product>
+    <ProdId>101</ProdId>
+    <ProdName>אנוכי מבקש</ProdName>
+    <ProdCategory>מבוגר</ProdCategory>
+    <Price>50</Price>
+    <Quantity>7</Quantity>
+  </Product>
+  <Product>
+    <ProdId>100</ProdId>
+    <ProdName>תשע לפנות בוקר</ProdName>
+    <ProdCategory>מבוגר</ProdCategory>
+    <Price>65</Price>
+    <Quantity>43</Quantity>
+  </Product>
+  <Product>
+    <ProdId>102</ProdId>
+    <ProdName>המשגיח</ProdName>
+    <ProdCategory>ביוגרפיה</ProdCategory>
+    <Price>80</Price>
+    <Quantity>12</Quantity>
   </Product>
 </ArrayOfProduct>

@@ -1,9 +1,5 @@
-﻿
-
-using BlApi;
+﻿using BlApi;
 using BO;
-using DalTest;
-
 namespace BlTest;
 
 public class Test

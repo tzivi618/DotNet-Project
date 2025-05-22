@@ -1,6 +1,4 @@
-﻿
-
-using BlApi;
+﻿using BlApi;
 using DO;
 using static BO.Tools;
 

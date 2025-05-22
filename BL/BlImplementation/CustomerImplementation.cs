@@ -1,6 +1,4 @@
-﻿
-
-using BlApi;
+﻿using BlApi;
 using BO;
 using DO;
 using static BO.Tools;
@@ -31,7 +29,6 @@ namespace BlImplementation
 
         public void Delete(int id)
         {
-
             try
             {
                 _dal.Customer.Delete(id);

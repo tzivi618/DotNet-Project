@@ -1,0 +1,44 @@
+	22/05/2025 12:29:36	Dal.ProductImplementation.Read:	begin Read Product11111
+	22/05/2025 12:29:36	Dal.ProductImplementation.Read:	-----------------error: This product is not in the prducts list-----------------
+	22/05/2025 13:06:59	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: 
+	22/05/2025 13:06:59	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	22/05/2025 13:07:03	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:03	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	22/05/2025 13:07:03	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:03	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 31
+	22/05/2025 13:07:04	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:04	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 6
+	22/05/2025 13:07:04	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:04	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 4
+	22/05/2025 13:07:05	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:05	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 2
+	22/05/2025 13:07:06	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:06	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 1
+	22/05/2025 13:07:07	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:07	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 2
+	22/05/2025 13:07:07	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:07	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 4
+	22/05/2025 13:07:07	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:07	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 6
+	22/05/2025 13:07:07	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:07	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 31
+	22/05/2025 13:07:08	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:08	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	22/05/2025 13:07:08	Dal.CustomerImplementation.ReadAll:	begin ReadAll customer, filter: System.Func`2[DO.Customer,System.Boolean]
+	22/05/2025 13:07:08	Dal.CustomerImplementation.ReadAll:	end ReadAll customer, found: 32
+	22/05/2025 13:07:11	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	22/05/2025 13:07:11	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	22/05/2025 13:12:43	Dal.CustomerImplementation.Read:	begin Read customer 11
+	22/05/2025 13:12:43	Dal.CustomerImplementation.Read:	end Read customer 11
+	22/05/2025 13:12:43	Dal.ProductImplementation.ReadAll:	begin ReadAll Products,filter:
+	22/05/2025 13:12:43	Dal.ProductImplementation.ReadAll:	end ReadAll Products,filter:
+	22/05/2025 13:12:47	Dal.ProductImplementation.Read:	begin Read Product102
+	22/05/2025 13:12:47	Dal.ProductImplementation.Read:	end Read Sale102
+	22/05/2025 13:13:02	Dal.ProductImplementation.Read:	begin Read Product102
+	22/05/2025 13:13:02	Dal.ProductImplementation.Read:	end Read Sale102
+	22/05/2025 13:13:02	Dal.ProductImplementation.Update:	begin Update Sale:Product { ProdId = 102, ProdName = המשגיח, ProdCategory = ביוגרפיה, Price = 80, Quantity = 12 }
+		22/05/2025 13:13:02	Dal.ProductImplementation.Delete:	begin Delete Sale:102
+			22/05/2025 13:13:02	Dal.ProductImplementation.Read:	begin Read Product102
+			22/05/2025 13:13:02	Dal.ProductImplementation.Read:	end Read Sale102
+		22/05/2025 13:13:02	Dal.ProductImplementation.Delete:	end Delete Sale102
+	22/05/2025 13:13:02	Dal.ProductImplementation.Update:	end Update SaleProduct { ProdId = 102, ProdName = המשגיח, ProdCategory = ביוגרפיה, Price = 80, Quantity = 12 }

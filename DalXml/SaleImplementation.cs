@@ -6,7 +6,6 @@ using Tools;
 
 namespace Dal
 {
-
     internal class SaleImplementation : ISale
     {
         static string xmlFilePath = @"..\xml\sales.xml";

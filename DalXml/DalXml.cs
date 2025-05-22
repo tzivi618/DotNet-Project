@@ -1,6 +1,4 @@
-﻿
-using System.Diagnostics;
-using DalApi;
+﻿using DalApi;
 
 namespace Dal
 {
@@ -9,9 +7,7 @@ namespace Dal
         public static readonly DalXml instance = new DalXml();
         public static DalXml Instance { get { return instance; } }
         public IProduct Product => new ProductImplementation();
-
         public ICustomer Customer => new CustomerImplementation();
-
         public ISale Sale => new SaleImplementation();
     }
 }

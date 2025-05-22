@@ -31,5 +31,20 @@ namespace UI
             SaleForm form = new SaleForm();
             form.Show();
         }
+
+        private void CleanOldLogDirectories_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Tools.LogManager.CleanOldLogDirectories();
+                MessageBox.Show("הקבצים נמחקו בהצלחה");
+            }
+            catch (Exception ex){
+                MessageBox.Show("שגיאה במחיקת הקבצים");
+            }
+
+
+
+        }
     }
 }

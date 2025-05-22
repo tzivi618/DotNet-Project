@@ -26,7 +26,6 @@ public static class Factory
                 throw new DalConfigException($"Failed to load {dal}.dll package", ex);
             }
             Type type = Type.GetType($"Dal.{dal}, {dal}") ??
-                //????????
                 throw new DalConfigException($"Class Dal.{dal} was not found in {dal}.packege.dll");
             return type.GetProperty("Instance", BindingFlags.Public |BindingFlags.Static)?.GetValue(null) as IDal ??
                 throw new DalConfigException($"Class {dal} is not a singleton or wrong property name for Instance");

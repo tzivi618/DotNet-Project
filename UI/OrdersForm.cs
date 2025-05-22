@@ -95,7 +95,7 @@ namespace UI
             ThankYouForm thankYouForm = new ThankYouForm();
             thankYouForm.Show();
 
-            await Task.Delay(5000);
+            await Task.Delay(2500);
 
             thankYouForm.Close();
         }

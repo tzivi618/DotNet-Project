@@ -70,10 +70,13 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.יפה_נוף;
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1232, 843);
             Controls.Add(button1);
             Controls.Add(manager);
             Controls.Add(shopkeeperBtn);
+            DoubleBuffered = true;
             Name = "PermissionSelection";
             RightToLeft = RightToLeft.Yes;
             RightToLeftLayout = true;

@@ -4,7 +4,6 @@ using DO;
 using Tools;
 
 namespace Dal;
-
 internal class SaleImplementation : ISale
 {
     public int Create(Sale item)

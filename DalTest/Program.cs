@@ -1,8 +1,6 @@
 ﻿using DalApi;
 using DalTest;
 using DO;
-using System.Reflection.Metadata;
-using Tools;
 namespace Dal;
 
 internal class Program
@@ -23,7 +21,6 @@ internal class Program
             throw error;
         }
     }
-    //נהול התוכנית
     private static void ManagerProgram()
     {
 
@@ -55,7 +52,6 @@ internal class Program
         }
     }
 
-    //הדפסת תפריט ראשי
     private static int PrintBigMenu()
     {
         Console.WriteLine("Customer prees 1, " +
@@ -69,7 +65,6 @@ internal class Program
         return Choice;
     }
 
-    //נהול התפריט המשני
     private static void MinMenu<T>(Icrud<T> icrud, Classes title)
     {
         int Choice = PrintMinMenu(title);
@@ -118,7 +113,6 @@ internal class Program
         }
     }
 
-    //הדפסת תפריט משני
     private static int PrintMinMenu(Classes title)
     {
         Console.WriteLine($"to add {title} press 1," +
@@ -133,30 +127,25 @@ internal class Program
         return Choice;
     }
 
-    //יצירת לקוח חדש
     private static void CreateCustomer()
     {
 
         s_dal.Customer.Create(NewCustomer());
     }
-    //יצירת מוצר חדש
     private static void CreateProduct()
     {
 
         s_dal.Product.Create(NewProduct());
     }
-    //יצירת מבצע חדש
     private static void CreateSale()
     {
         s_dal.Sale.Create(NewSale());
     }
 
-    //עדכון לקוח
     private static void UpdateCustomer()
     {
         s_dal.Customer.Update(NewCustomer());
     }
-    //עדכון מוצר
     private static void UpdateProduct()
     {
         Console.WriteLine("Enter product update ID");
@@ -174,7 +163,6 @@ internal class Program
     }
 
 
-    //יצירת אוביקט לקוח
     private static Customer NewCustomer()
     {
         Console.WriteLine("id,name,address,phone");
@@ -185,7 +173,6 @@ internal class Program
         string phone = Console.ReadLine();
         return new Customer(id, name, address, phone);
     }
-    //יצירת אוביקט מוצר
     private static Product NewProduct(int id = 0)
     {
         Console.WriteLine("name,category,price,quantity");
@@ -198,7 +185,6 @@ internal class Program
         int.TryParse(Console.ReadLine(), out quantity);
         return new Product(id, name, category, price, quantity);
     }
-    //יצירת אוביקט מבצע
     private static Sale NewSale(int id = 0)
     {
         Console.WriteLine("ProdId,QuentityForSale,TotalPriceSale,IsAllCustomer,StartDate,EndDate");

@@ -1,7 +1,5 @@
 ﻿using DalApi;
 using DO;
-using System.Data.Common;
-using System.Linq;
 using System.Reflection;
 using System.Xml.Serialization;
 using Tools;

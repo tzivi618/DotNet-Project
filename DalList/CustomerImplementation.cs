@@ -3,7 +3,6 @@ using DalApi;
 using System.Linq;
 using Tools;
 using System.Reflection;
-using System.Collections.Generic;
 namespace Dal;
 internal class CustomerImplementation : ICustomer
 {

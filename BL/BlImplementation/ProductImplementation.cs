@@ -1,9 +1,5 @@
-﻿
-
-using System.Runtime.CompilerServices;
-using BlApi;
+﻿using BlApi;
 using BO;
-//using DalApi;
 using DO;
 using static BO.Tools;
 
@@ -95,10 +91,6 @@ namespace BlImplementation
         public List<BO.Product?> ReadAll(Func<BO.Product, bool>? filter = null)
         {
             try
-            /*{
-                return _dal.Product.ReadAll(doProduct => filter(doProduct.ConvertProductToBo())).Select(s => s.ConvertProductToBo()).ToList();
-            }*/
-
             {
                 if (filter == null)
                     return _dal.Product.ReadAll().Select(p => p.ConvertProductToBo()).ToList();
